@@ -17,7 +17,7 @@ Hacer una evaluación considerando lo siguiente:
 El conjunto de datos incluye la siguiente información:
 
 - **Producto y Categoría:** Artículos vendidos y sus calificaciones.
--**Precio y Envío:** Valores de venta y costos asociados.
+- **Precio y Envío:** Valores de venta y costos asociados.
 - **Fecha y ubicación de compra:** Información temporal y geográfica.
 - **Evaluación de compra:** Comentarios de clientes.
 - **Tipo de Pago y Cuotas:** Métodos utilizados por los clientes.
@@ -28,39 +28,16 @@ El conjunto de datos incluye la siguiente información:
 - Crear visualizaciones de datos con la biblioteca Matplotlib.
 - Analizar métricas como ingresos, reseñas y rendimiento de ventas.
 
+---
+---
 
----
-
----
----
-<em> # Su título aquí </em>
-<h1 align="center"> Su título aquí </h1>
+<h1 align="center"> Informe Final: Recomendación de tienda para el Sr. Juan </h1>
 
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 
    ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
-
-<h4 align="center">
-:construction: Proyecto en construcción :construction:
-
-</h4>
-
-## Autores
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
-| :---: | :---: | :---: |
-
-
-
-## :hammer:Funcionalidades del proyecto
-
-🚧 Proyecto en construcción 🚧
-
-
-## Informe Final: Recomendación de tienda para el Sr. Juan
 
 ### Introducción
 
@@ -113,3 +90,5 @@ Después de revisar los indicadores clave, **la Tienda 4 es la opción más reco
 * Mantener **bjs calificaciones por parte de los clientes**,
 * Y presentar un **costo de envío bajo**.
 
+---
+---
