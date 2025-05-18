@@ -82,7 +82,7 @@ Después de revisar los indicadores clave, **la Tienda 4 es la opción más reco
 
 * Ser la de **menores ingresos**,
 * Tener una **menor rotación de productos**,
-* Mantener **bjs calificaciones por parte de los clientes**,
+* Mantener **bajas calificaciones por parte de los clientes**,
 * Y presentar un **costo de envío bajo**.
 
 ---
