@@ -87,3 +87,5 @@ Después de revisar los indicadores clave, **la Tienda 4 es la opción más reco
 
 ---
 ---
+
+Para mayor detalle del proceso de análisis, [click aquí 👇.](Challenge.ipynb)
